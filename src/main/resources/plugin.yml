@@ -1,0 +1,8 @@
+name: Timer
+version: '${project.version}'
+main: kr.ne.skeleton.timer.Timer
+api-version: 1.16
+authors: [ skeleton ]
+
+commands:
+  timer:
